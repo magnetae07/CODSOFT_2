@@ -1,4 +1,4 @@
-#CODSOFT_1
+
 #codsoft_studentGradeCalcTask2
 
 TASK 2 (STUDENT GRADE CALCULATOR)
